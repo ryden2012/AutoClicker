@@ -1,0 +1,10 @@
+dist/
+build-output/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.log
+test-report.txt
